@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/server/app.js"
   },
-  "author": "",
+  "author": "pacifi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
